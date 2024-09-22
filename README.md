@@ -1,5 +1,7 @@
 # Law Indexes: Pennsylvania
 
+[![DOI](https://zenodo.org/badge/861060278.svg)](https://zenodo.org/doi/10.5281/zenodo.13824466)
+
 ## Summary
 
 As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this repository has been created to disseminate law index data for the Commonwealth of Pennsylvania. This index currently covers a portion of the private and special laws only from 1700 through 1892.
