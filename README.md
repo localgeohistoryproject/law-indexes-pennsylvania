@@ -48,4 +48,4 @@ The data included in this resource is incomplete, and is not an exact transcript
 
 Because Smith's Laws often do not contain the full text of laws, an effort was made to translate these citations to use the Statutes as Large instead when available.
 
-[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. <https://www.archives.gov/research/reparative-description/harmful-content>.
+[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. Archived 16 January 2025 by Wayback Machine. <https://web.archive.org/web/20250116215713/https://www.archives.gov/research/reparative-description/harmful-content>.
