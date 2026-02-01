@@ -17,6 +17,7 @@
 
 ### Fixed
 
+- Minor spelling and stylistic corrections.
 - README Citation that included a removed federal government link to use Wayback Machine.
 - README Citation to Hirtle to cite exact date.
 
