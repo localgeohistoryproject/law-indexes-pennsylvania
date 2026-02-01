@@ -6,9 +6,11 @@
 
 - to README, Harmful Content: an additional sentence regarding graphic content.
 - to README, Summary: disclaimer about not being an official publication.
+- Type, Citation Session, Citation Session Type, Citation Page Range, Citation Bill Type, and Citation Bill Number columns.
 
 ### Changed
 
+- Citation Law Type data format.
 - Index Volume field to use Coverage instead of year published.
 - Moved Source Works table to separate file.
 - TSV file folder and name to accommodate one file per volume in volume type folders.
